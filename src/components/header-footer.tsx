@@ -2,7 +2,7 @@ export function Header() {
     return (
         <>
         <header>
-            <h1>Csokoladek</h1>
+            <h1>Csokoládék</h1>
         </header>
         </>
     )
